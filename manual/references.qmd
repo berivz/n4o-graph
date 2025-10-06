@@ -5,9 +5,6 @@ Weitere Einführungen in den Knowledge Graph geben folgende [Publikationen der V
 - *Integration von Forschungsdaten im NFDI4Objects Knowledge Graph*
   <https://zenodo.org/records/15694730>
   (Poster vom 24.6.2025) 
-- *Digital Heraldry: Objektübergreifende Modellierung heraldischer Quellen im Knowledge Graph*
-  <https://zenodo.org/records/17022254>
-  (Präsentation vom 28.4.2025)
 - *Inschriften und der "Knowledge Graph … wie CIDOC-CRM als Referenzmodell fungiert*
   <https://zenodo.org/records/15310724>
   (28.4.2025)
